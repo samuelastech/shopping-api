@@ -1,4 +1,4 @@
-package api.dtos;
+package api.shop.dtos;
 
 import api.shop.ItemEntity;
 import jakarta.validation.constraints.NotBlank;

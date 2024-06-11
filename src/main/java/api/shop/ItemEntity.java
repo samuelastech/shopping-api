@@ -1,6 +1,6 @@
 package api.shop;
 
-import api.dtos.ItemDTO;
+import api.shop.dtos.ItemDTO;
 import jakarta.persistence.Embeddable;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

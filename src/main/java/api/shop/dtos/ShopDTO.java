@@ -1,4 +1,4 @@
-package api.dtos;
+package api.shop.dtos;
 
 import java.time.LocalDateTime;
 import java.util.List;

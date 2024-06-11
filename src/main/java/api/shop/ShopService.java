@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 
 import org.springframework.stereotype.Service;
 
-import api.dtos.ShopDTO;
+import api.shop.dtos.ShopDTO;
 import lombok.RequiredArgsConstructor;
 
 @Service

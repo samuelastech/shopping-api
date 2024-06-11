@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 
 import org.hibernate.cache.spi.support.AbstractReadWriteAccess.Item;
 
-import api.dtos.ShopDTO;
+import api.shop.dtos.ShopDTO;
 import jakarta.persistence.CollectionTable;
 import jakarta.persistence.Column;
 import jakarta.persistence.ElementCollection;
